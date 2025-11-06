@@ -4,16 +4,6 @@
 
 ---
 
-## ÍNDICE
-1. Ejercicio 1: Configuración Básica de E/S
-2. Ejercicio 2: Simulación de Unidad de Control de Memoria
-3. Ejercicio 3: Configuración de Transferencia Asíncrona y Síncrona
-4. Ejercicio 4: Ejercicio de Interrupciones
-5. Ejercicio 5: Configuración de Memoria con Caché
-6. Conclusiones y Aplicaciones
-
----
-
 ## EJERCICIO 1: Configuración Básica de Entrada/Salida (E/S)
 
 ### Objetivo
